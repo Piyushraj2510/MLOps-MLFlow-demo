@@ -20,6 +20,7 @@ x_train, x_test, y_train, y_test = train_test_split(x,y, test_size=0.3, random_s
 n_estimators=100
 max_depth= 5
 
+#files/http format error solved using local mlruns folder locally(mlflow.set_tracking_uri)
 mlflow.set_tracking_uri("file:./mlruns")
 mlflow.set_experiment("Wine-RF-Experiment")
 
