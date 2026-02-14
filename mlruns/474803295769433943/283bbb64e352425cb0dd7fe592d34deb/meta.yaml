@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/474803295769433943/283bbb64e352425cb0dd7fe592d34deb/artifacts
+end_time: 1771096514734
+entry_point_name: ''
+experiment_id: '474803295769433943'
+lifecycle_stage: active
+run_id: 283bbb64e352425cb0dd7fe592d34deb
+run_name: intrigued-bug-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771096514232
+status: 3
+tags: []
+user_id: '91993'

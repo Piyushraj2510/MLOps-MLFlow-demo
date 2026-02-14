@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/474803295769433943/89c9be741bbb46a082e419c53864b998/artifacts
+end_time: 1771096654381
+entry_point_name: ''
+experiment_id: '474803295769433943'
+lifecycle_stage: active
+run_id: 89c9be741bbb46a082e419c53864b998
+run_name: unleashed-chimp-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771096653259
+status: 3
+tags: []
+user_id: '91993'
