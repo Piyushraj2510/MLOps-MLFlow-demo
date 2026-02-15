@@ -1,8 +1,8 @@
 creation_timestamp: 1771184190263
-current_stage: None
+current_stage: Staging
 deployment_job_state: null
 description: ''
-last_updated_timestamp: 1771184190263
+last_updated_timestamp: 1771184513459
 model_id: ''
 name: Breast cancer prediction
 run_id: 3aaa5020f8c44b9c8f6e93f36f69bc7f
