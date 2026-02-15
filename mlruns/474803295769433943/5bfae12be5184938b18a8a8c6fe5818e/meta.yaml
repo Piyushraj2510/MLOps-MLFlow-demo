@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/474803295769433943/5bfae12be5184938b18a8a8c6fe5818e/artifacts
+end_time: 1771099530934
+entry_point_name: ''
+experiment_id: '474803295769433943'
+lifecycle_stage: active
+run_id: 5bfae12be5184938b18a8a8c6fe5818e
+run_name: dazzling-lark-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771099519755
+status: 3
+tags: []
+user_id: '91993'

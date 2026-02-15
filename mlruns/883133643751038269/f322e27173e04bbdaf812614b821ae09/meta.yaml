@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/f322e27173e04bbdaf812614b821ae09/artifacts
+end_time: 1771182375776
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: f322e27173e04bbdaf812614b821ae09
+run_name: burly-crab-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182375695
+status: 3
+tags: []
+user_id: '91993'

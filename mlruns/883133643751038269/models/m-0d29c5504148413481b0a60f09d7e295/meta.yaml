@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/models/m-0d29c5504148413481b0a60f09d7e295/artifacts
+creation_timestamp: 1771182376300
+experiment_id: '883133643751038269'
+last_updated_timestamp: 1771182389569
+model_id: m-0d29c5504148413481b0a60f09d7e295
+model_type: null
+name: random_forest
+source_run_id: d9b10febcfbd4a50812b0408a6680429
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/cda58694cf7d4a168d79d2a45f956580/artifacts
+end_time: 1771182375412
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: cda58694cf7d4a168d79d2a45f956580
+run_name: illustrious-doe-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182375327
+status: 3
+tags: []
+user_id: '91993'

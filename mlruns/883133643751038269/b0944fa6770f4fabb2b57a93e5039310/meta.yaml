@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/b0944fa6770f4fabb2b57a93e5039310/artifacts
+end_time: 1771182375694
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: b0944fa6770f4fabb2b57a93e5039310
+run_name: capable-fish-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182375633
+status: 3
+tags: []
+user_id: '91993'

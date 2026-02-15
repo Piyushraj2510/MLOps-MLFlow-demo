@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/ad903d7ef7514784a25067d09233ab69/artifacts
+end_time: 1771182820786
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: ad903d7ef7514784a25067d09233ab69
+run_name: capable-ape-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182820723
+status: 3
+tags: []
+user_id: '91993'

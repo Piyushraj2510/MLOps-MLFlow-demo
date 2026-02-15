@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/c607462c792f44438c3d39007b60fba0/artifacts
+end_time: 1771182820714
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: c607462c792f44438c3d39007b60fba0
+run_name: peaceful-lynx-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182820630
+status: 3
+tags: []
+user_id: '91993'

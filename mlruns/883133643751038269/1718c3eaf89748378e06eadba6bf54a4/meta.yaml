@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/1718c3eaf89748378e06eadba6bf54a4/artifacts
+end_time: 1771182821569
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: 1718c3eaf89748378e06eadba6bf54a4
+run_name: tasteful-frog-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182821516
+status: 3
+tags: []
+user_id: '91993'

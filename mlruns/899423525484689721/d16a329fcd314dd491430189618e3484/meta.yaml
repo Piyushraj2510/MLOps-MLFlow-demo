@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/899423525484689721/d16a329fcd314dd491430189618e3484/artifacts
+end_time: 1771180255529
+entry_point_name: ''
+experiment_id: '899423525484689721'
+lifecycle_stage: active
+run_id: d16a329fcd314dd491430189618e3484
+run_name: rumbling-goat-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771180239114
+status: 3
+tags: []
+user_id: '91993'

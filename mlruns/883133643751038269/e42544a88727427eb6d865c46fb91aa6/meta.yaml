@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/e42544a88727427eb6d865c46fb91aa6/artifacts
+end_time: 1771182375477
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: e42544a88727427eb6d865c46fb91aa6
+run_name: abrasive-deer-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182375418
+status: 3
+tags: []
+user_id: '91993'

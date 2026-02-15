@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/12aa221c7f2e4dc28796b2fa53f943b1/artifacts
+end_time: 1771182925612
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: 12aa221c7f2e4dc28796b2fa53f943b1
+run_name: aged-bird-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182925521
+status: 3
+tags: []
+user_id: '91993'

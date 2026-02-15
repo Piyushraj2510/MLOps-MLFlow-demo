@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/159b7e563bc1411f85dd349f51aa69f4/artifacts
+end_time: 1771182926648
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: 159b7e563bc1411f85dd349f51aa69f4
+run_name: thundering-cod-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182926558
+status: 3
+tags: []
+user_id: '91993'

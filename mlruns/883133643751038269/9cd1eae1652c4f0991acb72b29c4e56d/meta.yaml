@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/9cd1eae1652c4f0991acb72b29c4e56d/artifacts
+end_time: 1771182821426
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: 9cd1eae1652c4f0991acb72b29c4e56d
+run_name: hilarious-moose-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182821359
+status: 3
+tags: []
+user_id: '91993'

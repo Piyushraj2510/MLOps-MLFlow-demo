@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/a2dd7e2a6e804c679c3be4a191f66d38/artifacts
+end_time: 1771182821201
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: a2dd7e2a6e804c679c3be4a191f66d38
+run_name: selective-gnu-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182821119
+status: 3
+tags: []
+user_id: '91993'

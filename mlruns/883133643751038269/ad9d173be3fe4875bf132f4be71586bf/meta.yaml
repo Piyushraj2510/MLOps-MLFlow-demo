@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/ad9d173be3fe4875bf132f4be71586bf/artifacts
+end_time: 1771182821510
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: ad9d173be3fe4875bf132f4be71586bf
+run_name: puzzled-sheep-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182821426
+status: 3
+tags: []
+user_id: '91993'

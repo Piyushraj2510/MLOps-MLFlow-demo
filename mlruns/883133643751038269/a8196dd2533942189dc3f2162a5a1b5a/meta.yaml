@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91993/OneDrive/Desktop/MLOps/MLOps-MLFlow-demo/mlruns/883133643751038269/a8196dd2533942189dc3f2162a5a1b5a/artifacts
+end_time: 1771182926027
+entry_point_name: ''
+experiment_id: '883133643751038269'
+lifecycle_stage: active
+run_id: a8196dd2533942189dc3f2162a5a1b5a
+run_name: wise-snake-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182925926
+status: 3
+tags: []
+user_id: '91993'
